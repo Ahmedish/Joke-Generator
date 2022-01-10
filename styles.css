@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.left {
+    padding: 50px 50px;
+    text-align: center;
+    background-color: #27253e;
+    border-radius: 5%;
+}
+button {
+    border: none;
+    background-color: #e9a04d;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+body {
+    background-color: #140f2b;
+}
+h1 {
+    color: white;
+}
+p {
+    color: white;
+}
